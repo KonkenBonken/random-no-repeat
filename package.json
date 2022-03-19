@@ -1,6 +1,6 @@
 {
   "name": "randomnorepeat",
-  "version": "1.0.1",
+  "version": "1.1.1",
   "description": "Get random values without repeating",
   "author": "Konrad Pettersson",
   "main": "index.js",
@@ -11,9 +11,6 @@
   "repository": {
     "type": "git",
     "url": "https://github.com/KonkenBonken/FePp.git"
-  },
-  "dependencies": {
-    "nanoid": "^3.3.1"
   },
   "license": "ISC",
   "typxe": "module",
