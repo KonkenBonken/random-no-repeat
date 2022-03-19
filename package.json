@@ -1,0 +1,19 @@
+{
+  "name": "randomnorepeat",
+  "version": "1.0.1",
+  "description": "",
+  "main": "index.ts",
+  "keywords": [
+    "random",
+    "no repeat"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/KonkenBonken/FePp.git"
+  },
+  "author": "Konrad Pettersson",
+  "dependencies": {
+    "unique-slug": "^2.0.2"
+  },
+  "license": "ISC"
+}
