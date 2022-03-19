@@ -1,8 +1,9 @@
 {
   "name": "randomnorepeat",
-  "version": "1.0.1",
+  "version": "1.0.0",
   "description": "",
-  "main": "index.ts",
+  "author": "Konrad Pettersson",
+  "main": "index.js",
   "keywords": [
     "random",
     "no repeat"
@@ -11,9 +12,14 @@
     "type": "git",
     "url": "https://github.com/KonkenBonken/FePp.git"
   },
-  "author": "Konrad Pettersson",
   "dependencies": {
-    "unique-slug": "^2.0.2"
+    "nanoid": "^3.3.1"
   },
-  "license": "ISC"
+  "license": "ISC",
+  "typxe": "module",
+  "devDependencies": {
+    "@tsconfig/node16": "^1.0.2",
+    "@types/node": "^17.0.21",
+    "typescript": "^4.6.2"
+  }
 }
